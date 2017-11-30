@@ -1,4 +1,4 @@
-#TOON-GO-SDK
+# TOON-GO-SDK
 toon-go-sdk can be used in your project to interact with the Toon API endpoint at https://api.toon.eu/toon/v3  
 There is a cli.go file which can be build and started, however this is used to do some testing, maybe there will be a full cli to interact with the Toon API in the future.
 
